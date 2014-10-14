@@ -8,7 +8,9 @@ display driving circuitry of a given board.
 I'm getting tired of swizzling these by hand so
 I'm writing a program to automate the process.
 
-(c) C.Schnarel 2014 ALL RIGHTS RESERVED
+Author: C.Schnarel
+You may use this code however you like but no liability is accepted.
+The latest version of this file can be found at https://github.com/uChip/Bit_Swizzler
 
  */
 
